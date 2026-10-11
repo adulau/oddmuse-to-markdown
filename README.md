@@ -132,3 +132,7 @@ python3 test_oddmuse_export.py -v
 - [Old OddMuse 2.2.6 implementation](https://github.com/kensanata/oddmuse/blob/main/t/oddmuse-2.2.6.pl), including sharded page and history paths
 - [OddMuse Markdown converter module](https://github.com/kensanata/oddmuse/blob/main/modules/markdown-converter.pl)
 - [OddMuse UseMod formatting extension](https://github.com/kensanata/oddmuse/blob/main/modules/usemod.pl)
+
+## LICENSE
+
+oddmuse-to-markdown is free software and licensed under the GNU General Public License.
